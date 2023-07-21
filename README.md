@@ -1,1 +1,1 @@
-# JAVA-crawler-picture-type-
+# JAVA-crawler-picture-type
